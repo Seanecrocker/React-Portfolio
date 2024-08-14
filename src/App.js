@@ -7,7 +7,7 @@ import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 
-function Appp() {
+function App() {
   return (
     <Router>
       <div>
@@ -24,4 +24,4 @@ function Appp() {
   );
 }
 
-export default Appp;
+export default App;
