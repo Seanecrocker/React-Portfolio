@@ -4,7 +4,7 @@ This is a personal portfolio website built using React and Vite. It showcases my
 
 ## Demo
 
-You can view the live demo of the portfolio here: [Live Demo](https://your-portfolio-link.netlify.app)
+You can view the live demo of the portfolio here: [Live Demo]https://main--shiny-blancmange-9baa6a.netlify.app
 
 ## Features
 
@@ -13,11 +13,7 @@ You can view the live demo of the portfolio here: [Live Demo](https://your-portf
 - **Projects Section**: A showcase of my projects, each with a title, description, and links to the live demo and GitHub repository.
 - **Contact Section**: Contact information is available, allowing visitors to reach out via email or phone.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/react-portfolio.git
+   git clone https://github.com/Seanecrocker/React-Portfolio
    cd react-portfolio
