@@ -185,3 +185,11 @@ p {
   color: #001f3f; /* Navy blue on hover */
   text-decoration: underline;
 }
+
+.home {
+  color: black
+}
+
+.about {
+  color: black
+}
