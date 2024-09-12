@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="footer">
       <p>&copy; 2024 My Portfolio. All rights reserved.</p>
       <p>
-        <a href="Seanecrocker@gmail.com">Seanecrocker@gmail.com</a> | 
+        <a href="mailto:seanecrocker@gmail.com">Seanecrocker@gmail.com</a> | 
         <a href="https://www.linkedin.com/in/sean-crocker-43a90b212/" target="_blank" rel="noopener noreferrer"> LinkedIn</a> | 
         <a href="https://github.com/Seanecrocker" target="_blank" rel="noopener noreferrer"> GitHub</a>
       </p>
